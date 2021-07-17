@@ -19,7 +19,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12 col-sm-12 col-md-6 offset-md-3 col-lg-6 offset-lg-3 col-xl-6 offset-xl-3" >
-            <h1 class ="text-center my-3">Login User</h1>
+            <h1 class ="text-center my-3">Login</h1>
             <form action="index.php?c=login&m=handle" method="post" class="p-3 border">
                 <div class="form-group">
                     <labe>User</labe>
